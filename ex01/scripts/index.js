@@ -1,0 +1,51 @@
+
+$(document).ready(function(){
+  $("#myImg1").click(function(){
+      $("#myModal1").modal();
+  });
+});
+$(document).ready(function(){
+  $("#myImg2").click(function(){
+      $("#myModal2").modal();
+  });
+});
+$(document).ready(function(){
+  $("#myImg3").click(function(){
+      $("#myModal3").modal();
+  });
+});
+$(document).ready(function(){
+  $("#myImg4").click(function(){
+      $("#myModal4").modal();
+  });
+});
+$(document).ready(function(){
+  $("#myImg5").click(function(){
+      $("#myModal5").modal();
+  });
+});
+$(document).ready(function(){
+  $("#myImg6").click(function(){
+      $("#myModal6").modal();
+  });
+});
+$(document).ready(function(){
+  $("#myImg7").click(function(){
+      $("#myModal7").modal();
+  });
+});
+$(document).ready(function(){
+  $("#myImg8").click(function(){
+      $("#myModal8").modal();
+  });
+});
+$(document).ready(function(){
+  $("#myImg9").click(function(){
+      $("#myModal9").modal();
+  });
+});
+$(document).ready(function(){
+  $("#myImg10").click(function(){
+      $("#myModal10").modal();
+  });
+});
